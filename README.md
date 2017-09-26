@@ -10,7 +10,7 @@
 
 
 ## Instalación
-* Abrir el archivo node-red-flow.txt y copiar el texto
+* Abrir el archivo [node-red-flow.txt](node-red-flow.txt) y copiar el texto
 * Abrir el navegador en node-red y seleccionar import --> clipboard
 ![clipboard](/img/clipboard.png)
 

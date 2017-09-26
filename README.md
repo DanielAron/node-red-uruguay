@@ -22,7 +22,7 @@
 Navegar a http://[url del node red]/signup
 
 # Nota
-El NLU devuelve un array con el texto ingresado y features. En Features tenemos usage, semantic_roles, keywords, ettities, concepts, categories y warnings.
+El NLU devuelve un array con el texto ingresado y features. En Features tenemos usage, semantic_roles, keywords, etities, concepts, categories y warnings.
 
 Las entities vienen en un array con los siguietnes parametros: type, text, relevance y count:
 ![FLow](/img/nlu.png)
